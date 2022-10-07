@@ -1,6 +1,14 @@
 # Image-Processing
 
-[![Watch the video](https://youtu.be/T-D1KVIuvjA)]
+https://user-images.githubusercontent.com/97884167/194514996-4ec36c54-c508-4cce-be36-17a9fa35701c.mp4
+
+
+https://user-images.githubusercontent.com/97884167/194514958-35339422-a61c-405d-b6ef-b8ca847cb2bd.mp4
+
+
+https://user-images.githubusercontent.com/97884167/194514891-cbf197e6-e236-43c7-bc5c-87974c620a72.mp4
+
+
 
 A course work project on Quantization and Subsampling of image  to analyze how it affects visual media types like images and video.
 
