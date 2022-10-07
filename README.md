@@ -1,10 +1,21 @@
 # Image-Processing
 Output Video:
-https://user-images.githubusercontent.com/97884167/194514891-cbf197e6-e236-43c7-bc5c-87974c620a72.mp4
+
+
+https://user-images.githubusercontent.com/97884167/194515996-5c72e2a4-32ab-42b1-8f92-fce188288e6d.mp4
+
+
 
 Input Video:
-https://user-images.githubusercontent.com/97884167/194514996-4ec36c54-c508-4cce-be36-17a9fa35701c.mp4
-https://user-images.githubusercontent.com/97884167/194514958-35339422-a61c-405d-b6ef-b8ca847cb2bd.mp4
+
+
+
+https://user-images.githubusercontent.com/97884167/194516107-6989ca62-4e2b-457b-b765-21b2909e0621.mp4
+
+
+https://user-images.githubusercontent.com/97884167/194516141-c88b52d1-55a6-4f99-bceb-fa8796070390.mp4
+
+
 
 A course work project on Quantization and Subsampling of image  to analyze how it affects visual media types like images and video.
 
