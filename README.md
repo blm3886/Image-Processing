@@ -1,4 +1,7 @@
 # Image-Processing
+
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+
 A course work project on Quantization and Subsampling of image  to analyze how it affects visual media types like images and video.
 
 Your program will be invoked using seven parameters where
